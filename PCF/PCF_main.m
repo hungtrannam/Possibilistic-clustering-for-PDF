@@ -3,7 +3,7 @@ clear; clc; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Loading
 
-addpath Data Figure_Output Package/Clust Package/Vis/ Package/Val/ Package/ToolBox/
+addpath Data Figure_Output PCF/Clust PCF/Vis/ PCF/Val/ PCF/ToolBox/
 % Add necessary paths for data, figure outputs, clustering packages, visualization, validation, and toolbox utilities.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
