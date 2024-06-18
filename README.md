@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistic-clustering-for-CDF)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistic-clustering-for-CDF)
-[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistic-clustering-for-CDF)](https://github.com/hungtrannam/Possibilistic-clustering-for-CDF/graphs/contributors)
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistics-clustering-for-CDF)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-CDF)
+[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistic-clustering-for-CDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-CDF/graphs/contributors)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/FSDA&project=FSDA.prj)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6549626.svg)](https://doi.org/10.5281/zenodo.6549626)
