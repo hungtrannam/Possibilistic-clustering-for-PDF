@@ -17,7 +17,7 @@
 
 The project was started in 2023 by authors of Hung Tran-Nam, Thao Nguyen-Trang, and Ha Che-Ngoc.
 
-Comprehensive detail of all functions is provided in the [PDF-format manual (~200 pages)](https://github.com/petercorke/spatialmath-matlab/releases/download/untagged-a2f9c8b2bd21cca9fe39/spatialmath.pdf).
+Comprehensive detail of all functions is provided in the [PDF-format manual](https://github.com/hungtrannam/Possibilistics-clustering-for-CDF/blob/main/PCF.pdf).
 
 
 Advantages of the Toolbox are that:
