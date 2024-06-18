@@ -43,6 +43,7 @@ Moreover, we should install the ```statistics``` package from Octave. To load th
 
 ```Octave
 pkg load statistics
+pkg install -forge fuzzy-logic-toolkit
 ```
 
 # Runing
