@@ -37,7 +37,13 @@ From the MATLAB toolstrip ```Home > Add-Ons > Get Add-Ons``` will bring up the `
 
 ## Octave
 
-The functions should work fine with Octave 5.x.
+The functions should work fine with Octave 8.4.x.
+
+Moreover, we should install the ```statistics``` package from Octave. To load the package, run from the Octave prompt the following.
+
+```Octave
+pkg load statistics
+```
 
 
 ## Citing
