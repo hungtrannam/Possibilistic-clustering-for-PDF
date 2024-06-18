@@ -45,7 +45,8 @@ results = PCM_2(Data, param);
 
 % Plot heatmap of cluster memberships
 figure;
-heatmap(results.Cluster.U);   % Display heatmap of cluster memberships
+imagesc(results.Cluster.U);
+colorbar;
 
 % Plot PDF of each iteration overlaid with representative PDF
 h = PlotPDFeachIteration(Data, results.Cluster.IDX, param.x);  % Plot PDF for each iteration
