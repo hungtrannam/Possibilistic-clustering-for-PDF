@@ -119,7 +119,7 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 -----------
 
-[![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/blob/main/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/blob/main//images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Copyright &copy; 2024, The MathWorks, Inc.
 
