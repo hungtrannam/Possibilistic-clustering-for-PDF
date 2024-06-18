@@ -54,7 +54,7 @@ pkg install -forge fuzzy-logic-toolkit
 
 1. **Script Execution:**
    - Open the MATLAB environment.
-   - Run the script `main_script.m`.
+   - Run the script `PCF_main.m`.
 
 2. **Expected Outputs:**
    - Heatmap visualization of cluster memberships.
