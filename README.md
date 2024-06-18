@@ -80,6 +80,7 @@ pkg install -forge fuzzy-logic-toolkit
 ### Dependencies
 
 - MATLAB R2020a or later.
+- Octave GNU 8.4.0 or later.
 - Additional packages and functions as specified in the `addpath` section.
 
 
