@@ -50,9 +50,9 @@ pkg install -forge statistics
 pkg install -forge fuzzy-logic-toolkit
 ```
 
-# Runing
+## Runing
 
-## Usage
+### Usage
 
 1. **Script Execution:**
    - Open the MATLAB environment.
@@ -63,7 +63,7 @@ pkg install -forge fuzzy-logic-toolkit
    - Overlay plot of probability density functions (PDF) and representative PDF.
    - Validation metrics for cluster quality.
 
-## File Structure
+### File Structure
 
 - **Data**: Contains functions for data simulation (`SimPDFAbnormal`).
 - **Figure_Output**: Directory for saving generated figures.
@@ -72,12 +72,12 @@ pkg install -forge fuzzy-logic-toolkit
 - **Package/Val**: Validation functions (`validityClustering`).
 - **Package/ToolBox**: Additional tools and utilities.
 
-## Parameters and Settings
+### Parameters and Settings
 
 - **Data Simulation:** Generates data with abnormal parameters defined in `abnormal_params`.
 - **Clustering Settings:** Parameters for PCM, including maximum iterations (`maxIter`), fuzziness (`mFuzzy`), convergence criteria (`epsilon`), number of clusters (`kClust`), and validation parameters.
 
-## Dependencies
+### Dependencies
 
 - MATLAB R2020a or later.
 - Additional packages and functions as specified in the `addpath` section.
