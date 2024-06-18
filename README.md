@@ -1,4 +1,8 @@
-[![Releases](https://img.shields.io/badge/release-v1.4-green.svg?style=plastic)](https://github.com/rodralez/NaveGo/releases) 
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistic-clustering-for-CDF)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistic-clustering-for-CDF)
+[![GitHub contributors](https://img.shields.io/github/contributors/UniprJRC/FSDA)](https://github.com/UniprJRC/FSDA/graphs/contributors)
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/FSDA&project=FSDA.prj)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6549626.svg)](https://doi.org/10.5281/zenodo.6549626)
 ![Version Number](https://img.shields.io/github/v/release/mathworks/toolboxdesign?label=version) ![CC-BY-4.0 License](https://img.shields.io/github/license/mathworks/toolboxdesign)
 
@@ -40,8 +44,8 @@ The functions should work fine with Octave 5.x.
 
 ## Contact us
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
-- E-mail: hung.trannam@vlu.edu.vn
-- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/issues) 
+- E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
+- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/issues) for constructive discussions and bug reports
 
 
 
