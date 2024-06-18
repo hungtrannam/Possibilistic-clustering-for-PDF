@@ -1,9 +1,11 @@
 [![Releases](https://img.shields.io/badge/release-v1.4-green.svg?style=plastic)](https://github.com/rodralez/NaveGo/releases) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6549626.svg)](https://doi.org/10.5281/zenodo.6549626)
+![Version Number](https://img.shields.io/github/v/release/mathworks/toolboxdesign?label=version) ![CC-BY-4.0 License](https://img.shields.io/github/license/mathworks/toolboxdesign)
+
 
 # PCF ToolBox for clustering the probability density functions&reg;
 
-**PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements** and is distributed under the 3-Clause BSD license.
+**PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
 
 The project was started in 2023 by authors of Hung Tran-Nam, Thao Nguyen-Trang, and Ha Che-Ngoc.
 
@@ -39,10 +41,12 @@ The functions should work fine with Octave 5.x.
 ## Contact us
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 - E-mail: hung.trannam@vlu.edu.vn
-- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/issues)
-- 
+- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/issues) 
 
----
+
+
+-----------
+
 [![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/blob/main/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Copyright &copy; 2024, The MathWorks, Inc.
