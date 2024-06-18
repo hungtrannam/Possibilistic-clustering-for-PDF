@@ -45,6 +45,67 @@ Moreover, we should install the ```statistics``` package from Octave. To load th
 pkg load statistics
 ```
 
+# Runing
+
+## Usage
+
+1. **Setup:**
+   - Ensure MATLAB is installed and configured.
+   - Add necessary paths for data, figures, and required packages.
+
+2. **Script Execution:**
+   - Open the MATLAB environment.
+   - Run the script `main_script.m`.
+
+3. **Expected Outputs:**
+   - Heatmap visualization of cluster memberships.
+   - Overlay plot of probability density functions (PDF) and representative PDF.
+   - Validation metrics for cluster quality.
+
+## File Structure
+
+- **Data**: Contains functions for data simulation (`SimPDFAbnormal`).
+- **Figure_Output**: Directory for saving generated figures.
+- **Package/Clust**: Clustering algorithms (`PCM_2`).
+- **Package/Vis**: Visualization utilities (`PlotPDFeachIteration`).
+- **Package/Val**: Validation functions (`validityClustering`).
+- **Package/ToolBox**: Additional tools and utilities.
+
+## Parameters and Settings
+
+- **Data Simulation:** Generates data with abnormal parameters defined in `abnormal_params`.
+- **Clustering Settings:** Parameters for PCM, including maximum iterations (`maxIter`), fuzziness (`mFuzzy`), convergence criteria (`epsilon`), number of clusters (`kClust`), and validation parameters.
+
+## Dependencies
+
+- MATLAB R2020a or later.
+- Additional packages and functions as specified in the `addpath` section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Citing
 
