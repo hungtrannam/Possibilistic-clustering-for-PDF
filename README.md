@@ -42,7 +42,7 @@ The functions should work fine with Octave 8.4.x.
 Moreover, we should install the ```statistics``` package from Octave. To load the package, run from the Octave prompt the following.
 
 ```Octave
-pkg load statistics
+pkg install -forge statistics
 pkg install -forge fuzzy-logic-toolkit
 ```
 
