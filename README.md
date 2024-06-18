@@ -50,15 +50,11 @@ pkg install -forge fuzzy-logic-toolkit
 
 ## Usage
 
-1. **Setup:**
-   - Ensure MATLAB is installed and configured.
-   - Add necessary paths for data, figures, and required packages.
-
-2. **Script Execution:**
+1. **Script Execution:**
    - Open the MATLAB environment.
    - Run the script `main_script.m`.
 
-3. **Expected Outputs:**
+2. **Expected Outputs:**
    - Heatmap visualization of cluster memberships.
    - Overlay plot of probability density functions (PDF) and representative PDF.
    - Validation metrics for cluster quality.
