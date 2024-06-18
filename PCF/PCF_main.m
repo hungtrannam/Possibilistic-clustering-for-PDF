@@ -38,7 +38,7 @@ param.alphaCut = .1;            % Alpha-cut value for fuzziness
 % Clustering via algorithm
 
 % Perform clustering using PCM_2 algorithm (assuming PCM_2 is defined elsewhere)
-results = PCM_2(Data, param);
+results = PCM_(Data, param);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Plotting
