@@ -66,8 +66,7 @@ for i = 1:length(imgFiles)
     img_gray = double(img_gray);
 
     % Filter out values and compute kernel bandwidth (h)
-    img_filtered = img_gray(img_gray > 10 & img_gray < 255);
-    h = (4/3)^(1/5) * length(img_filtered).^(-1/5) * std(img_filtered);
+    h = (4/3)^(1/5) * length(img_gray).^(-1/5) * std(img_gray);
 
     % Compute kernel density estimate
     [pdf_img, x] = ksdensity(img_filtered, 'Bandwidth', h, 'NumPoints', p.Results.numPoints);
