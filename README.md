@@ -28,12 +28,6 @@ Advantages of the Toolbox are that:
 
 
 
-
-
-
-
-
-
 ## Installation
 
 From the MATLAB toolstrip ```Home > Add-Ons > Get Add-Ons``` will bring up the ```Add-On Explorer```.  Enter *"PCF clustering"* into the search box, select the first entry and then click *"Add from GitHub"*.  The Toolbox will be downloaded and added to your path.
@@ -101,7 +95,7 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 -----------
 
-[![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/blob/main//images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY-4.0](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/blob/main/images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Copyright &copy; 2024, The MathWorks, Inc.
 
