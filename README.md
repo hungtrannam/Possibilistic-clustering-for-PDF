@@ -102,6 +102,7 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 ### Example Use Cases
 
 Provide examples of how the PCF Toolbox can be used in practical scenarios. This can help users understand the application of the toolbox:
+
 Example 1: Detecting Anomalies in Financial Data
 
 * Simulate financial data using SimPDFAbnormal.
