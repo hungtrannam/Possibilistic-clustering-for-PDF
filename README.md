@@ -73,6 +73,8 @@ pkg install -forge fuzzy-logic-toolkit
 
 
 
+![Description of the GIF](images/output.gif)
+
 
 ### Dependencies
 
