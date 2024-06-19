@@ -21,7 +21,6 @@
 7. 🌐 [Dependencies](#dependencies)
 8. 📖 [Citing](#citing)
 9. ✉️ [Contact](#contact)
-10. 📄 [License](#license)
 
 
 **PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
