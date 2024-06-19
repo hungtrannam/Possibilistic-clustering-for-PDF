@@ -92,6 +92,40 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 ## 📖 Citing
 
+
+
+
+
+## 🙋‍♂️ FAQ
+
+### 1. What platforms does the PCF Toolbox support?
+
+The PCF Toolbox is primarily designed to work with MATLAB (R2020a or later) and Octave (GNU 8.4.0 or later). Ensure that all required packages mentioned in the dependencies section are installed for smooth operation.
+
+### 2. How can I contribute to the PCF Toolbox?
+
+We welcome contributions to the PCF Toolbox! Please fork the repository, make your changes, and submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
+
+### 3. Where can I find the manual for the Toolbox?
+
+The PDF-format manual for the PCF Toolbox is available [here](link_to_manual.pdf). It contains comprehensive details on all functions and usage instructions.
+
+### 4. How do I report a bug or suggest a feature?
+
+You can report bugs, suggest features, or start a discussion by creating a new issue [here](link_to_issues).
+
+### 5. Can I use the PCF Toolbox for commercial purposes?
+
+Yes, the PCF Toolbox is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which allows for both personal and commercial use with proper attribution.
+
+### 6. What should I do if I encounter compatibility issues?
+
+If you encounter compatibility issues or have trouble using the Toolbox, please reach out to us via email at [support@example.com](mailto:support@example.com).
+
+
+
+
+
 ## ✉️ Contact
 
 **Contact us**. If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
