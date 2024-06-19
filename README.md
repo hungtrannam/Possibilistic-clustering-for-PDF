@@ -71,10 +71,19 @@ pkg install -forge fuzzy-logic-toolkit
 
 ### Simulation
 
-
-
 ![Description of the GIF](images/output.gif)
 
+**Step 1**: Install `ffmpeg`
+First, you need to install `ffmpeg` if you haven't already. Open the Terminal and run the following commands
+```sh
+sudo apt update
+sudo apt install ffmpeg
+```
+Step 2: Create a GIF from a Sequence of Output PNG Images
+
+```sh
+ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
+```
 
 ### Dependencies
 
