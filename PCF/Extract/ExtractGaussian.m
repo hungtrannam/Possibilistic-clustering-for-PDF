@@ -1,32 +1,33 @@
-function [pdf, x] = ExtractKernel(imds, varargin)
-% ExtractKernel: Computes kernel density estimate (pdf) for images in ImageDatastore.
+function [pdf, x] = ExtractGaussian(imds, varargin)
+% ExtractGaussian: Computes Gaussian density estimate (pdf) for images in ImageDatastore.
 %
 % Syntax:
-%   [pdf, x] = ExtractKernel(imds)
-%   [pdf, x] = ExtractKernel(imds, Name, Value)
+%   [pdf, x] = ExtractGaussian(imds)
+%   [pdf, x] = ExtractGaussian(imds, Name, Value)
 %
 % Description:
-%   ExtractKernel computes the kernel density estimate (pdf) for grayscale images
-%   in the ImageDatastore `imds`. It filters images, computes bandwidth (h) for
-%   kernel density estimation, and returns pdf values and corresponding x values.
+%   ExtractGaussian computes the Gaussian density estimate (pdf) for grayscale images
+%   in the ImageDatastore `imds`. It filters images by specified extensions, converts them
+%   to grayscale if necessary, computes the mean and standard deviation for each image, 
+%   and returns pdf values and corresponding x values.
 %
 % Input Arguments:
 %   imds - A matlab.io.datastore.ImageDatastore object containing images.
 %
 % Optional Name-Value Pair Arguments:
-%   'numPoints'  - Number of points for kernel density estimation (default: 1000).
+%   'numPoints'  - Number of points for Gaussian density estimation (default: 1000).
 %   'extensions' - File extensions of images in ImageDatastore (default: {'.png'}).
 %
 % Output Arguments:
-%   pdf - Kernel density estimate values for each image.
-%   x   - Points at which the kernel density estimate is evaluated.
+%   pdf - Gaussian density estimate values for each image.
+%   x   - Points at which the Gaussian density estimate is evaluated.
 %
 % Example:
 %   imds = imageDatastore('path_to_images');
-%   [pdf, x] = ExtractKernel(imds, 'numPoints', 500);
+%   [pdf, x] = ExtractGaussian(imds, 'numPoints', 500);
 %
 % See also:
-%   ksdensity, imageDatastore
+%   normpdf, imageDatastore
 
 % Set default values for optional parameters
 defaultX = 1000;
@@ -57,6 +58,12 @@ for i = 1:length(imgFiles)
     fullName = imgFiles{i};
     img = imread(fullName);
 
+    % Check if the file extension matches the specified extensions
+    [~, ~, ext] = fileparts(fullName);
+    if ~ismember(ext, imgExtensions)
+        continue;
+    end
+
     % Convert image to grayscale if it is RGB
     if size(img, 3) == 3
         img_gray = rgb2gray(img);
@@ -65,16 +72,18 @@ for i = 1:length(imgFiles)
     end
     img_gray = double(img_gray);
 
-    % Filter out values and compute kernel bandwidth (h)
-    img_filtered = img_gray(img_gray > 10 & img_gray < 255);
-    h = (4/3)^(1/5) * length(img_filtered).^(-1/5) * std(img_filtered);
+    % Compute mean and standard deviation of the image
+    mu_img = mean(img_gray(:));
+    sig_img = std(img_gray(:));
 
-    % Compute kernel density estimate
-    [pdf_img, x] = ksdensity(img_filtered, 'Bandwidth', h, 'NumPoints', p.Results.numPoints);
+    % Compute Gaussian density estimate
+    x = linspace(-3, 2, p.Results.numPoints);
+    pdf_img = normpdf(x, mu_img, sig_img);
     pdf(:, i) = pdf_img';
     
     % Display progress (optional function textwaitbar used here)
     textwaitbar(i, length(imgFiles));
+
 end
 
 end
