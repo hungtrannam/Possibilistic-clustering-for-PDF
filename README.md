@@ -9,16 +9,6 @@
 [![GNU Octave](https://img.shields.io/badge/Powered_by-GNU_Octave-blue.svg)](https://www.gnu.org/software/octave/)
 
 
-
-## Table of Contents
-
-1. ⭐ [Overview](#⭐Overview)
-2. 🛠️ [Installation](#🛠️Installation)
-3. ▶️ [Runing](#▶️Runing)
-8. 📖 [Citing](#📖Citing)
-9. ✉️ [Contact](#✉️Contact)
-
-
 ## ⭐ Overview
 
 **PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
@@ -97,8 +87,6 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 🤖 Octave GNU 8.4.0 or later.
 
 🤖 Additional packages and functions as specified in the `addpath` section.
-
-
 
 
 
