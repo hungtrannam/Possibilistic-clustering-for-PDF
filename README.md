@@ -12,11 +12,11 @@
 
 ## Table of Contents
 
-1. ⭐ [Overview](#overview)
-2. 🛠️ [Installation](#installation)
-3. ▶️ [Usage](#usage)
-8. 📖 [Citing](#citing)
-9. ✉️ [Contact](#contact)
+1. ⭐ [Overview](#⭐Overview)
+2. 🛠️ [Installation](#🛠️Installation)
+3. ▶️ [Runing](#▶️Runing)
+8. 📖 [Citing](#📖Citing)
+9. ✉️ [Contact](#✉️Contact)
 
 
 ## ⭐ Overview
