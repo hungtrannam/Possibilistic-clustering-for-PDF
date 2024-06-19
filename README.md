@@ -98,7 +98,9 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 ### Dependencies
 
 🤖 MATLAB R2020a or later.
+
 🤖 Octave GNU 8.4.0 or later.
+
 🤖 Additional packages and functions as specified in the `addpath` section.
 
 
@@ -111,6 +113,7 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
+
 ✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
 
 
