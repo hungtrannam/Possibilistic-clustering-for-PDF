@@ -9,7 +9,7 @@
 [![GNU Octave](https://img.shields.io/badge/Powered_by-GNU_Octave-blue.svg)](https://www.gnu.org/software/octave/)
 
 
-## ⭐ Overview
+## 🌟 Overview
 
 **PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
 
@@ -28,7 +28,18 @@ Advantages of the Toolbox are that:
 
 ## 🛠️ Installation
 
-From the MATLAB toolstrip ```Home > Add-Ons > Get Add-Ons``` will bring up the ```Add-On Explorer```.  Enter *"PCF clustering"* into the search box, select the first entry and then click *"Add from GitHub"*.  The Toolbox will be downloaded and added to your path.
+### Add-On installation
+* From the MATLAB toolstrip ```Home > Add-Ons > Get Add-Ons``` will bring up the ```Add-On Explorer```.
+* Enter *"PCF clustering"* into the search box, select the first entry and then click *"Add from GitHub"*.
+* The Toolbox will be downloaded and added to your path.
+
+### Manual installation
+
+To install the toolbox:
+* download the zip archive of the latest release
+* unzip the file
+* add the 'PCF' directory to the Matlab path (see the "addpath" function from Matlab).
+
 
 The functions should work fine with `Octave 8.4.x`. However, we should install the ```statistics``` package from Octave. To load the package, run from the Octave prompt the following.
 
