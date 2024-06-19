@@ -99,7 +99,19 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 🤖 Additional packages and functions as specified in the `addpath` section.
 
+### Example Use Cases
 
+Provide examples of how the PCF Toolbox can be used in practical scenarios. This can help users understand the application of the toolbox:
+Example 1: Detecting Anomalies in Financial Data
+
+* Simulate financial data using SimPDFAbnormal.
+* Apply the PCF clustering algorithm to identify unusual patterns.
+* Visualize the results with heatmaps and overlay plots.
+
+Example 2: Medical Data Analysis
+
+* Use the toolbox to cluster patient data based on probability density functions.
+* Identify outliers and abnormal cases in medical diagnostics.
 
 ## 📖 Citing
 
