@@ -108,19 +108,15 @@ We welcome contributions to the PCF Toolbox! Please fork the repository, make yo
 
 ### 3. Where can I find the manual for the Toolbox?
 
-The PDF-format manual for the PCF Toolbox is available [here](link_to_manual.pdf). It contains comprehensive details on all functions and usage instructions.
+The PDF-format manual for the PCF Toolbox is available [here](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/blob/main/PCF-manual.pdf). It contains comprehensive details on all functions and usage instructions.
 
 ### 4. How do I report a bug or suggest a feature?
 
-You can report bugs, suggest features, or start a discussion by creating a new issue [here](link_to_issues).
+You can report bugs, suggest features, or start a discussion by creating a new issue [here]([link_to_issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues)).
 
 ### 5. Can I use the PCF Toolbox for commercial purposes?
 
 Yes, the PCF Toolbox is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which allows for both personal and commercial use with proper attribution.
-
-### 6. What should I do if I encounter compatibility issues?
-
-If you encounter compatibility issues or have trouble using the Toolbox, please reach out to us via email at [support@example.com](mailto:support@example.com).
 
 
 
