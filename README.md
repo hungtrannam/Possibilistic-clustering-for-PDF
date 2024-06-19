@@ -2,9 +2,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-PDF)
 [![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistics-clustering-for-PDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/graphs/contributors)
 
-![Version Number](https://img.shields.io/github/v/release/mathworks/toolboxdesign?label=version) ![CC-BY-4.0 License](https://img.shields.io/github/license/mathworks/toolboxdesign)
-
-
 # PCF ToolBox for clustering the probability density functions&reg;
 
 
