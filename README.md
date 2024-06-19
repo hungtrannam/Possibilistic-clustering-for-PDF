@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistics-clustering-for-CDF)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-CDF)
-[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistics-clustering-for-CDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-CDF/graphs/contributors)
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistics-clustering-for-PDF)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-PDF)
+[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistics-clustering-for-PDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/graphs/contributors)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6549626.svg)](https://doi.org/10.5281/zenodo.6549626)
 ![Version Number](https://img.shields.io/github/v/release/mathworks/toolboxdesign?label=version) ![CC-BY-4.0 License](https://img.shields.io/github/license/mathworks/toolboxdesign)
@@ -17,7 +17,7 @@
 
 The project was started in 2023 by authors of Hung Tran-Nam, Thao Nguyen-Trang, and Ha Che-Ngoc.
 
-Comprehensive detail of all functions is provided in the [PDF-format manual](https://github.com/hungtrannam/Possibilistics-clustering-for-CDF/blob/main/PCF.pdf).
+Comprehensive detail of all functions is provided in the [PDF-format manual](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/blob/main/PCF-manual.pdf).
 
 
 Advantages of the Toolbox are that:
@@ -65,7 +65,7 @@ pkg install -forge fuzzy-logic-toolkit
 
 - **Data**: Contains functions for data simulation (`SimPDFAbnormal`).
 - **Figure_Output**: Directory for saving generated figures.
-- **Package/Clust**: Clustering algorithms (`PCM_2`).
+- **Package/Clust**: Clustering algorithms (`PCM_`).
 - **Package/Vis**: Visualization utilities (`PlotPDFeachIteration`).
 - **Package/Val**: Validation functions (`validityClustering`).
 - **Package/ToolBox**: Additional tools and utilities.
@@ -74,6 +74,11 @@ pkg install -forge fuzzy-logic-toolkit
 
 - **Data Simulation:** Generates data with abnormal parameters defined in `abnormal_params`.
 - **Clustering Settings:** Parameters for PCM, including maximum iterations (`maxIter`), fuzziness (`mFuzzy`), convergence criteria (`epsilon`), number of clusters (`kClust`), and validation parameters.
+
+### Simulation
+
+
+
 
 ### Dependencies
 
@@ -85,40 +90,18 @@ pkg install -forge fuzzy-logic-toolkit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Citing
 
 ## Contact us
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 - E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
-- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/issues) for constructive discussions and bug reports
+- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
 
 
 
 -----------
 
-[![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-CDF/blob/main//images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY-4.0](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/blob/main//images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Copyright &copy; 2024, The MathWorks, Inc.
 
