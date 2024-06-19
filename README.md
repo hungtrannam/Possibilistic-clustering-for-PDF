@@ -36,7 +36,12 @@ Advantages of the Toolbox are that:
 ### Manual installation
 
 To install the toolbox:
-* download the zip archive of the latest release
+* download the zip archive of the latest release or type the following to the terminal:
+
+```sh
+git clone http://hungtrannam/Possibilistics-clustering-for-PDF
+```
+
 * unzip the file
 * add the 'PCF' directory to the Matlab path (see the "addpath" function from Matlab).
 
