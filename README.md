@@ -15,13 +15,11 @@
 1. ⭐ [Overview](#overview)
 2. 🛠️ [Installation](#installation)
 3. ▶️ [Usage](#usage)
-4. 📂 [File Structure](#file-structure)
-5. ⚙️ [Parameters and Settings](#parameters-and-settings)
-6. 🎥 [Simulation](#simulation)
-7. 🌐 [Dependencies](#dependencies)
 8. 📖 [Citing](#citing)
 9. ✉️ [Contact](#contact)
 
+
+## ⭐ Overview
 
 **PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
 
@@ -38,21 +36,18 @@ Advantages of the Toolbox are that:
 
 
 
-## Installation
+## 🛠️ Installation
 
 From the MATLAB toolstrip ```Home > Add-Ons > Get Add-Ons``` will bring up the ```Add-On Explorer```.  Enter *"PCF clustering"* into the search box, select the first entry and then click *"Add from GitHub"*.  The Toolbox will be downloaded and added to your path.
 
-
-## Octave
-
-The functions should work fine with Octave 8.4.x. However, we should install the ```statistics``` package from Octave. To load the package, run from the Octave prompt the following.
+The functions should work fine with `Octave 8.4.x`. However, we should install the ```statistics``` package from Octave. To load the package, run from the Octave prompt the following.
 
 ```Octave
 pkg install -forge statistics
 pkg install -forge fuzzy-logic-toolkit
 ```
 
-## Runing
+## ▶️ Runing
 
 ### Usage
 
@@ -107,11 +102,14 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 
 
-## Citing
+## 📖 Citing
+
+## ✉️ Contact
 
 **Contact us**
 
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
+
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 
 ✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
