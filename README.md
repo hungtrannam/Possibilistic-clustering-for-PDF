@@ -2,7 +2,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-PDF)
 [![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistics-clustering-for-PDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/graphs/contributors)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6549626.svg)](https://doi.org/10.5281/zenodo.6549626)
 ![Version Number](https://img.shields.io/github/v/release/mathworks/toolboxdesign?label=version) ![CC-BY-4.0 License](https://img.shields.io/github/license/mathworks/toolboxdesign)
 
 
