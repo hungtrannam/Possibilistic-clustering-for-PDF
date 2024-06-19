@@ -32,9 +32,9 @@ Comprehensive detail of all functions is provided in the [PDF-format manual](htt
 
 Advantages of the Toolbox are that:
 
-  * the code is mature and provides a point of comparison for other implementations of the same algorithms;
-  * the routines are generally written in a straightforward manner which allows for easy understanding, perhaps at the expense of computational efficiency. If you feel strongly about computational efficiency then you can always rewrite the function to be more efficient, compile the M-file using the MATLAB compiler, or create a MEX version;
-  * source code is available for the benefit for understanding and teaching.
+* the code is mature and provides a point of comparison for other implementations of the same algorithms;
+* the routines are generally written in a straightforward manner which allows for easy understanding, perhaps at the expense of computational efficiency. If you feel strongly about computational efficiency then you can always rewrite the function to be more efficient, compile the M-file using the MATLAB compiler, or create a MEX version;
+* source code is available for the benefit for understanding and teaching.
 
 
 
@@ -97,9 +97,9 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 ### Dependencies
 
-- MATLAB R2020a or later.
-- Octave GNU 8.4.0 or later.
-- Additional packages and functions as specified in the `addpath` section.
+🤖 MATLAB R2020a or later.
+🤖 Octave GNU 8.4.0 or later.
+🤖 Additional packages and functions as specified in the `addpath` section.
 
 
 
@@ -110,8 +110,8 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 **Contact us**
 
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
-- E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
-- Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
+✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
+✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
 
 
 
