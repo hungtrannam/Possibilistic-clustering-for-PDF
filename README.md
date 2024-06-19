@@ -9,6 +9,21 @@
 [![GNU Octave](https://img.shields.io/badge/Powered_by-GNU_Octave-blue.svg)](https://www.gnu.org/software/octave/)
 
 
+
+## Table of Contents
+
+1. ⭐ [Overview](#overview)
+2. 🛠️ [Installation](#installation)
+3. ▶️ [Usage](#usage)
+4. 📂 [File Structure](#file-structure)
+5. ⚙️ [Parameters and Settings](#parameters-and-settings)
+6. 🎥 [Simulation](#simulation)
+7. 🌐 [Dependencies](#dependencies)
+8. 📖 [Citing](#citing)
+9. ✉️ [Contact](#contact)
+10. 📄 [License](#license)
+
+
 **PCF** is a MATLAB module for paper **A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements**.
 
 The project was started in 2023 by authors of Hung Tran-Nam, Thao Nguyen-Trang, and Ha Che-Ngoc.
@@ -93,7 +108,8 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 ## Citing
 
-## Contact us
+**Contact us**
+
 If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 - E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 - Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
