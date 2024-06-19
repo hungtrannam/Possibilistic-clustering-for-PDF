@@ -94,13 +94,13 @@ ffmpeg -framerate 1 -i CDF_Plot\(%03d\).png output.gif
 
 ## ✉️ Contact
 
-**Contact us**
-
-If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
+**Contact us**. If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 
 ✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
+
+
 
 
 
