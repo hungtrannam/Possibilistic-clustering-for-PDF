@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistics-clustering-for-PDF)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistics-clustering-for-PDF)
-[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistics-clustering-for-PDF)](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/graphs/contributors)
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/Possibilistic-clustering-for-PDF)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/Possibilistic-clustering-for-PDF)
+[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/Possibilistic-clustering-for-PDF)](https://github.com/hungtrannam/Possibilistic-clustering-for-PDF/graphs/contributors)
 
 # PCF ToolBox for clustering the probability density functions&reg;
 
@@ -15,7 +15,7 @@
 
 The project was started in 2023 by authors of Hung Tran-Nam, Thao Nguyen-Trang, and Ha Che-Ngoc.
 
-Comprehensive detail of all functions is provided in the [PDF-format manual](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/blob/main/PCF-manual.pdf).
+Comprehensive detail of all functions is provided in the [PDF-format manual](https://github.com/hungtrannam/Possibilistic-clustering-for-PDF/blob/main/PCF-manual.pdf).
 
 
 Advantages of the Toolbox are that:
@@ -157,7 +157,7 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 
-✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistics-clustering-for-PDF/issues) for constructive discussions and bug reports
+✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistic-clustering-for-PDF/issues) for constructive discussions and bug reports
 
 
 
@@ -165,7 +165,7 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 -----------
 
-[![CC-BY-4.0](https://github.com/hungtrannam/Possibilistics-clustering-for-PDF/blob/main/images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY-4.0](https://github.com/hungtrannam/Possibilistic-clustering-for-PDF/blob/main/images/cc-by-40.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Copyright &copy; 2024, The MathWorks, Inc.
 
