@@ -153,7 +153,7 @@ Yes, the PCF Toolbox is licensed under [CC-BY-4.0](https://creativecommons.org/l
 
 ## ✉️ Contact
 
-**Contact us**. If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
+If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
 
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 
