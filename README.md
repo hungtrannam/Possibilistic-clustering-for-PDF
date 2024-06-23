@@ -157,7 +157,7 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 ✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
 
-✉️ Create new issue in [issues](https://github.com/hungtrannam/Probabilistic-clustering-for-PDF/issues) for constructive discussions and bug reports
+✉️ Create new issue in [issues](https://github.com/hungtrannam/Possibilistic-clustering-for-PDF/issues) for constructive discussions and bug reports
 
 
 
