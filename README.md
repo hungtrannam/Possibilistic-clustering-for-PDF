@@ -120,8 +120,10 @@ Example 2: Medical Data Analysis
 * Identify outliers and abnormal cases in medical diagnostics.
 
 ## 📖 Citing
-
-
+If you use this repository in your research or work, please cite the following paper:
+```
+Tran-Nam, H., Nguyen-Trang, T. & Che-Ngoc, H. A new possibilistic-based clustering method for probability density functions and its application to detecting abnormal elements. Sci Rep 14, 17871 (2024). https://doi.org/10.1038/s41598-024-68323-9
+```
 
 
 
